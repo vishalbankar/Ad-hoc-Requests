@@ -9,7 +9,7 @@ However, the management noticed that they do not get enough insights to make qui
 - My SQL
 - Power BI (for Visualization)
 
-## Key Learning :
+## Key Learnings :
 - Working with CTE(Common Table Expresion)
 - Subquery
 - Windows Functions (Rank(), Dence_Rank() )
